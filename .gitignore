@@ -17,6 +17,7 @@
 mono_crash.*
 
 libs/
+NuGet.Config
 
 # Build results
 [Dd]ebug/
